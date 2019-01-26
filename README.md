@@ -1,2 +1,2 @@
 # pythonTestSuit
-Custom Test-Suit Using Python's unitTest, Executor module 
+Custom Test-Suit Using Python's unitTest and Executor modules 
