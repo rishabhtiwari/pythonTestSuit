@@ -39,9 +39,7 @@ if __name__ == '__main__':
     currentTimeInMs = int(time.time() * 1000)
     mapper = {
         0: ["response", 200,
-            "http://feedtest.mnetads.com/v2/ads?uua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A46.0%29+Gecko"
-            "%2F20100101+Firefox%2F46.0&vardcac=1&partid=285380A4-34B6-4729-B821-2EE2870EFAE1&numofads=10&mkt=sad&pid"
-            "=testPub&purl=https%3A%2F%2Fwww.media.net&uip=204.45.156.178"],
+            "http://www.python.org/"],
         1: ["test_upper", "RISHABH", "RISHABH"],
         2: ["is_upper", "rishabh", "RISHABH"],
         3: ["split", "one,two,three", ['one', 'two', 'three']]
